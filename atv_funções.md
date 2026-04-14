@@ -1,0 +1,1 @@
+Abram o Visual Studio Code (ou a IDE padrão). Definam logo no topo do arquivo a função paralela `verificar_par(numero)`. A estrutura deve abrigar um `if` para analisar se o seu módulo contra `2` não possui resto (usando `%`), acionando um `return True` nessa situação. Se for falso, devolva o comando `return False`. Vamos revisar individualmente.
